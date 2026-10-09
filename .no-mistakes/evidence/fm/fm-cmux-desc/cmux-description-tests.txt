@@ -1,0 +1,2 @@
+ok - fm_backend_cmux_create_task: passes the task's backlog title as the workspace description, name unchanged
+ok - fm_backend_cmux_create_task: creates the workspace without a description when the backlog has no title
